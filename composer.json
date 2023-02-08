@@ -1,0 +1,27 @@
+{
+  "name": "mirakmalsulton/dynamic-input",
+  "type": "library",
+  "description": "Dynamic html input element adder",
+  "keywords": [
+    "html input add",
+    "html",
+    "css"
+  ],
+  "homepage": "https://phpchoyhona.blogspot.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mirakmalsulton",
+      "homepage": "https://phpchoyhona.blogspot.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "MirakmalSulton\\DynamicInput\\": "src/"
+    }
+  }
+}
